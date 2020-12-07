@@ -9,13 +9,11 @@
 # Description of their source of data:
 •	For this project, we have a couple of different options here. There have been some good datasets produced from the NBA database that already exist on sites like Kaggle. However, in order to be able to have this as a reusable model and project, we would like to figure out how to scrape the correct data from one of the major NBA-related databases such as   basketball-reference.com or nba.com/stats. 
 
-•	API:
--   https://rapidapi.com/api-sports/api/api-nba/details
--   https://pypi.org/project/nba-api/ <br>
-•	Other data sets <br>
--   https://www.kaggle.com/nathanlauga/nba-games
-
-
+###	API: <br>
+    -    https://rapidapi.com/api-sports/api/api-nba/details <br>
+    -    https://pypi.org/project/nba-api/ <br>
+###	Other data sets <br>
+    -    https://www.kaggle.com/nathanlauga/nba-games
 
 # Questions that we hope to answer with the data:
 •	Based on the data that we’ve seen from the past in relation to the NBA, we believe that we might be able to answer the following questions: <br>

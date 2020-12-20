@@ -17,9 +17,9 @@
 
 # Questions that we hope to answer with the data:
 •	Based on the data that we’ve seen from the past in relation to the NBA, we believe that we might be able to answer the following questions: <br>
-o	What is the biggest factor for wins in the NBA? <br>
-o	Is there a particular position that accounts for the most wins in the NBA? <br>
-o	What factors can we use and accurately predict player usage and win chances? <br>
+-	What is the biggest factor for wins in the NBA? <br>
+-	Is there a particular position that accounts for the most wins in the NBA? <br>
+-	What factors can we use and accurately predict player usage and win chances? <br>
 
 # Machine Learning Model:
 
@@ -37,15 +37,17 @@ o	What factors can we use and accurately predict player usage and win chances? <
 
 ## Modeling in R 
 •	Multiple linear regressions and correlations were done in R <br>
-o	Multiple linear regressions of Games Data <br>
+-	Multiple linear regressions of Games Data <br>
     ![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/Games%20Model%20-%20Multiple%20Regression.png)
-o	Correlation Matrix of Games Data <br>
+-	Correlation Matrix of Games Data <br>
     ![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/Games_Heatmap.png) <br>
-o	Multiple linear regressions of total NBA Data <br>
-    1[](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/All%20Data%20Model%20-%20Multiple%20Regression.png)
-o	Correlation of Entire Dataset <br>
+-	Multiple linear regressions of total NBA Data <br>
+    ![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/All%20Data%20Model%20-%20Multiple%20Regression.png)
+-	Correlation of Entire Dataset <br>
     ![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/Total%20Data%20Heatmap.png)
   
 
 # Dashboard: <br>
 •	Current presentation of our project: https://docs.google.com/presentation/d/12ejlmgQIRVO0LbfAsxKkh3drddwy_zq03CxWQu24zEw/edit?usp=sharing
+
+

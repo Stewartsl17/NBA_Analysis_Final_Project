@@ -1,4 +1,4 @@
-# NBA_Analysis_Final_Project
+# NBA Analysis Final Project
 
 # Selected Topic: 
 •	Examining the different variables of the NBA and determining which have the most effect on winning.
@@ -27,5 +27,5 @@
          - Multiple linear regressions for looking the different variables and their relationships <br>
 
 Dashboard: <br>
-•	Either Tableau or JavaScript (or both)
-  - Would like to show our work as well as create a cool medium for our project to be seen through
+•	Current presentation of our project: https://docs.google.com/presentation/d/12ejlmgQIRVO0LbfAsxKkh3drddwy_zq03CxWQu24zEw/edit?usp=sharing
+

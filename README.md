@@ -36,9 +36,13 @@
   ![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/EA%20Classifier%20-%20ML%20Modeling.png)
 
 ## Modeling in R 
-  - Multiple linear regressions for looking the different variables and their relationships <br>
+  - Multiple linear regressions and correlations were done in R <br>
+    - Multiple linear regressions of Games Data <br>
+    ![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/Games%20Model%20-%20Multiple%20Regression.png)
     - Correlation Matrix of Games Data <br>
     ![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/Games_Heatmap.png) <br>
+    - Multiple linear regressions of total NBA Data <br>
+    1[](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/All%20Data%20Model%20-%20Multiple%20Regression.png)
     - Correlation of Entire Dataset <br>
     ![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/Total%20Data%20Heatmap.png)
   

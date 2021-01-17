@@ -78,5 +78,12 @@
 ### Easy Ensemble AdaBoost Classifier <br>
   ![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/EA%20Classifier%20-%20ML%20Modeling.png)
 
-•	Overall we were able to achieve accuracy scores of 82-83%, with the Logistic Regression model leading the pack in the accuracy measure. Our next steps will be to test this model with data from the 2021 season when we are able to gather more data.
+•	Overall we were able to achieve accuracy scores of 82-83%, with the Logistic Regression model leading the pack in the accuracy measure.
 
+## Future Considerations
+
+Based on the work currently done in this project, we hope to do some of the following in the future: 
+•	Testing our model on the current NBA season
+•	Shifting from Macro to Micro - Reworking the model to work on player level data
+•	Looking further at the other variables within the dataset and beyond
+•	Looking at defensive characteristics and trying to create defensive predictions

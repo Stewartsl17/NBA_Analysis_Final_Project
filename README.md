@@ -82,8 +82,8 @@
 
 ## Future Considerations
 
-Based on the work currently done in this project, we hope to do some of the following in the future: 
-•	Testing our model on the current NBA season
-•	Shifting from Macro to Micro - Reworking the model to work on player level data
-•	Looking further at the other variables within the dataset and beyond
-•	Looking at defensive characteristics and trying to create defensive predictions
+Based on the work currently done in this project, we hope to do some of the following in the future: <br>
+•	Testing our model on the current NBA season <br>
+•	Shifting from Macro to Micro - Reworking the model to work on player level data <br>
+•	Looking further at the other variables within the dataset and beyond <br>
+•	Looking at defensive characteristics and trying to create defensive predictions <br>
